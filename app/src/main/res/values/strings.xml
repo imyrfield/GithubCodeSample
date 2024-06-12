@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubCodeSample</string>
+    <string name="hint_search">Enter a github user id</string>
+    <string name="btn_search">Search</string>
+
+    <!--Errors-->
+    <string name="no_results_found">No Results Found</string>
+    <string name="no_internet">Please check your internet connection and try again.</string>
+    <string name="invalid_search">To search, please enter a user ID</string>
+    <string name="rate_limit_exceeded">Rate limit exceeded, please try again later.</string>
+
+    <!--Accessibility-->
+    <string name="access_user_avatar">User Avatar</string>
+    <string name="last_updated_formatted">Last Updated: %1$s</string>
+    <string name="total_forks_formatted">Total Forks: %1$d</string>
+</resources>

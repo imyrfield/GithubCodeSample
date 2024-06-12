@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F50B5</color>
+    <color name="primaryDark">#303F9F</color>
+    <color name="accent">#FD5991</color>
+
+    <color name="fork_highlight">#FFCC0000</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
